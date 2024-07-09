@@ -86,4 +86,8 @@ dependencies {
     //permission handling in compose
     implementation(libs.accompanist.permissions)
 
+    //location services
+    implementation(libs.play.services.location)
+
+
 }
